@@ -1,2 +1,3 @@
 # hello-world
-New repository
+Hi Humans!
+Kavya here, I like python and javascript.
